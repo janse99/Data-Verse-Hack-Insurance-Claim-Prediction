@@ -6,7 +6,7 @@ As it's a fast growing startup, the company would like to optimize the cost of t
 
 Now the company would like to use Data Science to identify the policyholders whose chances of filing a claim are high in the next 6 months. The company challenges the Data Science community to build a high-performance algorithm to predict if the policyholder will file a claim in the next 6 months or not based on the set of car and policy features.
 
-# Step which i follow to solve this hackathaon.
+# Steps which i follow to solve this hackathaon.
 # Step-1: Understand the Data( By doing Univariate and Bi-variate Analysis)
 # Step-2: Datapreprocessing(like Feature Engineering,Encoding,Scalling and Transformation)
 # Step-3: Build the Base Model
